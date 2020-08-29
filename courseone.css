@@ -1,0 +1,41 @@
+*{
+padding: 0px;
+margin: 0px;
+border: 0px;
+}
+body{
+    background-color: black;
+}
+#xhr{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.pintar img {
+    padding: 10px;
+    border-radius: 30px;
+}
+button{
+    height: 30px;
+    width: 60px;
+    border-radius: 4px;
+    background-color: rgb(46, 44, 44);
+    border: 1px solid rgb(114, 111, 111);
+    color: rgb(114, 111, 111);
+    margin: 5px;
+
+}
+#filtrar{
+    height: 30px;
+    border: 1px solid rgb(114, 111, 111);
+    color: rgb(114, 111, 111);
+    margin: 5px;
+    border-radius: 4px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+    
+}
